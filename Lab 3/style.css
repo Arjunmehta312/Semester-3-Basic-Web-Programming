@@ -1,0 +1,34 @@
+.head {
+    color: blue;
+    }
+    .left {
+    color: blue;
+    text-align: left;
+    }
+    .right {
+    color: red;
+    text-align: right;
+    text-decoration: overline;
+    }
+    .bold {
+    color: orange; text-align: left;
+    text-decoration: underline;
+    }
+    .link {
+    color: red;
+    }
+    .hver:hover {
+    color: green;
+    }
+    .plus:hover {
+    cursor: crosshair;
+    }
+    .pointing:hover { cursor: pointer;
+    }
+    .grasping:hover { cursor: grab;
+    }
+    .wait:hover {
+        cursor: wait;
+    }
+    .question:hover { cursor: help;
+    }

@@ -1,0 +1,39 @@
+
+.Head { font-family:
+    Roboto; text-align:
+    center;
+    }
+    body{ background-color: pink; background-image: url("https://www.nmims.edu/images/nmims-university-logo.png");
+    backgroundrepeat: repeat;
+    }
+    .left{ font-family:
+    sans-serif; margin-left:
+    3%; color: blue; }
+    .center{ text-align: center; text-decoration: underline; font-size: larger;
+    }
+    .right{ text-align: right; text-decoration: overline; font-style: italic; color:red; font-size:
+    large;
+    }
+    .styledbld{ fontfamily: Roboto; font-size: larger;
+    font-weight:1000;
+    color:#ff8400; textdecoration: underline;
+    } .logo{ marginbottom: -150px; margin-left: auto;
+    margin-right: auto; display: block; } .link a{
+    color: red; textdecoration:none; fontsize: 25px; font-weight: 900;
+    }
+    .plus{ cursor:
+    crosshair; fontfamily: Roboto; font-weight: 800;
+    color: green;
+    }
+    .point{ cursor:
+    pointer; font-family:
+    Roboto; fontweight: 800; color: green; }
+    .grasping{ cursor:
+    grab; font-family:
+    Roboto; fontweight: 800; color: green; }
+    .I{ cursor: text;
+        font-family: Roboto; font-weight: 800; color: green; }
+        .wait{ cursor: wait; font-family: Roboto; font-weight: 800; color: green; }
+        .quest{ cursor:help; font-family: Roboto; font-weight: 800;
+        color: green; }
+            
